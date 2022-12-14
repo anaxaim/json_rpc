@@ -1,0 +1,8 @@
+### VisualStudioCode template
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
+
+### other
+coverage.out
+vendor
